@@ -33,6 +33,13 @@ class KodeBuah
 
 /////////////////////////////////////////////
 
+class PosisiKarakterGame
+{
+
+}
+
+/// </summary>
+
 class program
 {
     static void Main(string[] args)
